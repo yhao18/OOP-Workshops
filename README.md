@@ -9,7 +9,7 @@ Go to this url: https://tinyurl.com/244setup
 
 
 ## Getting Workshop files
-(if you have not followed the Installation guides to prepare your computer go to **Using ZIP DOWNLOAD**)<br />
+(if you have not followed the Installation guides to prepare your computer go to **Using [Download Zip](https://github.com/Seneca-244200/OOP-Workshops#using-download-zip)**)<br />
 
 ### Using [Git](https://git-scm.com/download/win)
 - Open https://github.com/Seneca-244200/OOP-Workshops and click on “Code” Button; this will open “Clone with HTTPS” window.<br />
