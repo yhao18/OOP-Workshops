@@ -9,7 +9,7 @@ Go to this url: https://tinyurl.com/244setup
 
 
 ## Getting Workshop files
-(if you have not followed the Installation guides to prepare your computer go to **Using [Download Zip](https://github.com/Seneca-244200/OOP-Workshops#using-download-zip)**)<br />
+(if you have not followed the Installation guides to prepare your computer go to **Using [Download Zip](#using-download-zip)**)<br />
 
 ### Using [Git](https://git-scm.com/download/win)
 - Open https://github.com/Seneca-244200/OOP-Workshops and click on “Code” Button; this will open “Clone with HTTPS” window.<br />
@@ -47,6 +47,6 @@ git pull<ENTER>
 - This will download a zipped file copy of the workshop repository from Github to your computer. You can extract this file to where you want to do your workshop. <br />
 > Note that, if your professor makes any changes to the workshop, to get them you have to separately download another copy of the workshop and manually apply the changes to your working directory to **make sure nothing of your work is overwritten by mistake**.
 
-# Improtant Note
-Install [GlobalProtect](https://inside.senecacollege.ca/its/services/vpn/senecavpn.html) on your computer to have access to internal services of Seneca and the Matrix Linux cluster.
-> When transferring program files to Matrix using an SFTP or SSH client, make sure your transfer mode is always set to **TEXT**
+# Improtant Notes
+- Install [GlobalProtect](https://inside.senecacollege.ca/its/services/vpn/senecavpn.html) on your computer to have access to internal services of Seneca and the Matrix Linux cluster.
+- When transferring program files to Matrix using an SFTP or SSH client, make sure your transfer mode is always set to **TEXT**
