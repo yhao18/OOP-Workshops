@@ -47,6 +47,6 @@ git pull<ENTER>
 - This will download a zipped file copy of the workshop repository from Github to your computer. You can extract this file to where you want to do your workshop. <br />
 > Note that, if your professor makes any changes to the workshop, to get them you have to separately download another copy of the workshop and manually apply the changes to your working directory to **make sure nothing of your work is overwritten by mistake**.
 
-# Improtant Notes
+# Important Notes
 - Install [GlobalProtect](https://inside.senecacollege.ca/its/services/vpn/senecavpn.html) on your computer to have access to internal services of Seneca and the Matrix Linux cluster.
 - When transferring program files to Matrix using an SFTP or SSH client, make sure your transfer mode is always set to **TEXT**
