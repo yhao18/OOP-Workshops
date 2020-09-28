@@ -142,7 +142,7 @@ Use the following fscanf function to read the student number from the file and r
 fscanf(fptr, "%d,".......
 ```
 3. **read** function for the student GPA:<br />
-Returns a **bool** for success and has one Cstring argument to send back the name of the student.
+Returns a **bool** for success and has one double reference argument to send back the gpa of the student.
 Use the following fscanf function to read the GPA from the file and return true if it returns 1.  
 ```C
 fscanf(fptr, "%lf\n",......
