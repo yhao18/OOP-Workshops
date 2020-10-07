@@ -1,6 +1,5 @@
 # Workshop #3: Member Functions and Privacy
-* Version 0.81 (Under review for typos and more clarification, submission not opened yet)
-
+* Version 1.1 (added a "note" to the init function of Transcript)
 
 In this workshop, you will use member functions, privacy , safe empty state and formatting the output to complete your work.
 
@@ -237,6 +236,7 @@ Otherwise if the incoming arguments are valid:
 - **init()** function will first set the **m_noOfSubjects** member variable to the incoming corresponding argument and sets **m_subjectsAdded** to zero.
 - Next it will dynamically allocate memory for the student name in **m_studentName** and then copies the name into the allocated memory. 
 - Then it will dynamically allocate an array of **Subject**s pointed by **m_subjects** member variable. The length of this array will be  **m_noOfSubjects**.
+> Make sure all the dynamically allocated **Subject**s are set to empty
 
 
 ```C++
