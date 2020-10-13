@@ -350,7 +350,7 @@ Invalid value [10000<=value<=99999]: 65432
 ********************************************
 ```
   
-##Tester program:
+## Tester program:
 ```C++
 // Workshop 4:
 // Version: 0.9
@@ -384,6 +384,7 @@ int main() {
 }
 
 ```
+### DIY execution sample
 Here is the execution sample for the tester program
 ```Text
 ********************************************
