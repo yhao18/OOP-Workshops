@@ -411,7 +411,7 @@ EMPTY NAMETAG!
 EMPTY NAMETAG!
 
 Please enter the name: John Doe<ENTER>
-Would you like to enter an extension? (Y)es/(N)o: n
+Would you like to enter an extension? (Y)es/(N)o: n<ENTER>
 ************************
 *                      *
 * John Doe             *
