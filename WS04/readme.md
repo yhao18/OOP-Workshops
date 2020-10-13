@@ -1,5 +1,5 @@
 # Workshop #5: Constructors Destructors and Current object
-* Version 1.0 
+* Version 1.1 (corrected the Box& add(Box&) function description and clarified DIY additional function creation)
 
 In this workshop, you will use Constructors, a Destructor and reference of the current object to simulate a Box for holding bulk material. 
 
@@ -210,7 +210,7 @@ In any case the reference of the current object is returned.
 ```C++
   Box& add(Box& B);
 ```
-This function pours the content of one box into another. If the target box is full, the rest of the material remains in the source box **B**. If the target box is empty and has no name, it will get the same name as the source box. If the material are not the same, the target box becomes unusable and the source box will lose the material poured in the target box.<br />
+This function pours the content of one box into another. If the target box is full, the rest of the material remains in the source box **B**. If the target box has no name ~~and~~ or is empty, it will get the same name as the source box. If the material are not the same, the target box becomes unusable and the source box will lose the material poured in the target box.<br />
 Here is the source code for this funciton:
 ```C++
   if (m_contentName == nullptr || quantity() == 0) {
@@ -254,6 +254,8 @@ and follow the instructions.
 
 
 # DIY (50%)
+> Please note that you can (and probably should) add more member functions to make the DIY part work.
+
 
 Files to submit:  
 ```Text
@@ -350,7 +352,7 @@ Invalid value [10000<=value<=99999]: 65432
 ********************************************
 ```
   
-## Tester program:
+##Tester program:
 ```C++
 // Workshop 4:
 // Version: 0.9
@@ -384,7 +386,6 @@ int main() {
 }
 
 ```
-### DIY execution sample
 Here is the execution sample for the tester program
 ```Text
 ********************************************
@@ -412,7 +413,7 @@ EMPTY NAMETAG!
 EMPTY NAMETAG!
 
 Please enter the name: John Doe<ENTER>
-Would you like to enter an extension? (Y)es/(N)o: n<ENTER>
+Would you like to enter an extension? (Y)es/(N)o: n
 ************************
 *                      *
 * John Doe             *
