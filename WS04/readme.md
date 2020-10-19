@@ -1,4 +1,5 @@
-# Workshop #5: Constructors Destructors and Current object
+# Workshop #4: Constructors Destructors and Current object
+* Version 1.2 (corrected workshop number from 5 to 4 (thanks Tim Lin for pointing it out))
 * Version 1.1 (corrected the Box& add(Box&) function description and clarified DIY additional function creation)
 
 In this workshop, you will use Constructors, a Destructor and reference of the current object to simulate a Box for holding bulk material. 
