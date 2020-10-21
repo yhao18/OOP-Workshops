@@ -37,8 +37,8 @@ namespace sdds {
          cout.unsetf(ios::right);
          // I (Fardad) removed the "return cout", this was a mistake
          // (copied and pasted by mistake)
-         // has no effect to the execution of the program
-         // is as mentioned before we should have only
+         // and had no effect to the execution of the program.
+         // As mentioned before we should have only
          // one return statement in a function.
       }
       else {
