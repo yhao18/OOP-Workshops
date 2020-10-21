@@ -35,7 +35,11 @@ namespace sdds {
          cout.setf(ios::fixed);
          cout << m_balance;
          cout.unsetf(ios::right);
-         return cout;
+         // I (Fardad) removed the "return cout", this was a mistake
+         // (copied and pasted by mistake)
+         // has no effect to the execution of the program
+         // is as mentioned before we should have only
+         // one return statement in a function.
       }
       else {
          cout << "Invalid Account";
