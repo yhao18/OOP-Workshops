@@ -1,5 +1,5 @@
-# [Study Week Review Session Recordings and Notes](https://github.com/Seneca-244200/OOP244-NABD-Notes/blob/master/review/README.md)
-
+# Study Week Review Session Recordings and Notes
+[Here are the notes and the recordings of the session](https://github.com/Seneca-244200/OOP244-NABD-Notes/tree/master/review)
 # Computer preparation and Getting Workshop files
 
 ## Setting up your computers for OOP244
