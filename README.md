@@ -1,10 +1,5 @@
-﻿# Study week review sessions
-On Friday Oct 30th, there will a review sessions on pointers, Dynamic Memory Allocation and some operator overloading at 10 AM and then a Q&A review session at 1 PM.<br />
-If you are a Seneca student and would like to participate in these sessions please click on the link below to register:<br />
-> [Click Here to register](mailto:fardad.soleimanloo@senecacollege.ca?subject=244+Review&body=I+would+like+to+attend+these+sessions)<br />  
-This link opens an email application. Make sure to send your email form your Seneca account only. You will receive an automatic reply with instructions to join the session.<br />
-When joining the session it is strongly recommended to have a microphone and joining the session with microphone and **NOT LISTEN ONLY**. 
-
+# Study Week Review Session Recordings and Notes
+[Here are the notes and the recordings of the session](https://github.com/Seneca-244200/OOP244-NABD-Notes/tree/master/review)
 # Computer preparation and Getting Workshop files
 
 ## Setting up your computers for OOP244
