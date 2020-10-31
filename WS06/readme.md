@@ -18,7 +18,7 @@ Upon successful completion of this workshop, you will have demonstrated the abil
 
 The workshop is divided into one coding part and one non-coding part:
 
-- *Part 1*: worth 100% of the workshop's total mark, is due on **Thursday at 23:59:59** of the week of your scheduled lab.
+- *Part 1*: worth 100% of the workshop's total mark, is due on **Friday at 23:59:59** of the week of your scheduled lab.
 - *reflection*: non-coding part, is due on **Sunday at 23:59:59** of the week of your scheduled lab. The reflection doesn't have marks associated to it, but can incur a **penalty of max 40% of the whole workshop's mark** if your professor deems it insufficient (you make your marks from the code, but you can lose some on the reflection).
 
 **The code that is submitted late receives 0%.**  On Sunday at midnight the submission closes; if the workshop is incomplete when the submission closes (missing at least one of the coding or non-coding parts), **the mark for the entire workshop is 0%**.
