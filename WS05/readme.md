@@ -1,4 +1,5 @@
-# Workshop #5: Member Operators, Helper functions
+﻿# Workshop #5: Member Operators, Helper functions
+* Version 0.91 (Removed the extra return cout statement from the display function)
 * Version 0.9 (under review, Start working on the lab. If there are any corrections, the version number will change)
 
 In this workshop, you will implement different types of operator overload on a partially developed class.
