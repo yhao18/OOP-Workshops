@@ -1,6 +1,5 @@
 ﻿ # Workshop #6: Classes and resources, IO operators
-* Version 0.9<br />
-(Submission is not open yet. This document is under review, Start working on the lab. If there are any corrections, the version number will change)
+* Version 1.0 (Submission is open now)
 
 In this workshop, you will implement copy constructor and copy assignment to prevent memory leak and resize allocated memory.
 
